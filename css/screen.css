@@ -1,0 +1,40 @@
+body {
+  font-family: 'Telex', sans-serif;
+  color: #212121; }
+
+.container {
+  width: 100%;
+  height: 100%; }
+
+.container .content {
+  margin: 0 auto;
+  max-width: 400px; }
+
+.logo {
+  margin: 0 auto;
+  display: block;
+  max-width: 400px; }
+  .logo img {
+    width: 100%;
+    height: 100%; }
+
+#mc_embed_signup {
+  width: 100%;
+  background: red; }
+  #mc_embed_signup label {
+    font-family: 'Telex', sans-serif; }
+  #mc_embed_signup .indicates-required {
+    display: none; }
+  #mc_embed_signup span.asterisk {
+    display: none; }
+  #mc_embed_signup input[type="email"] {
+    width: 100% !important; }
+  #mc_embed_signup input[type="submit"] {
+    font-family: 'Telex', sans-serif;
+    width: 100% !important;
+    margin: 0 auto !important;
+    float: none;
+    display: block;
+    background: #6FA8A6; }
+    #mc_embed_signup input[type="submit"]:hover {
+      background: #568e8c; }
