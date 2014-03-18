@@ -1,0 +1,4 @@
+squidshaped
+===========
+
+Squidshaped Static Website
